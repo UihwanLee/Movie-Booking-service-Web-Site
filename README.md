@@ -1,3 +1,6 @@
+## Movie Booking Servce Web Site
+To Build for booking System using MySQL and to pratice ReactJS, node.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
